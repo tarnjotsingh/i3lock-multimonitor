@@ -21,8 +21,10 @@ Note - Instructions are for Ubuntu since its the most popular linux distro.
 ```
 sudo apt-get install imagemagick i3lock
 ```
-Copy the `i3lock-mm` script along with the images to some place on your system (e.g.: the i3 folder) and give it execution permission:
+Copy the `i3lock-mm` script along with the images to some place on your system (e.g.: the i3 folder) and give it execution permission: 
+
 OR
+
 Copy the `i3lock-mm` into your binaries folder (reason why I made the changes)
 ```
 git clone https://github.com/tarnjotsingh/i3lock-multimonitor.git
